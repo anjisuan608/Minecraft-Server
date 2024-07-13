@@ -1,2 +1,2 @@
 # Minecraft-Server
-Minecraft Server Starter
+Minecraft Server Luncher
