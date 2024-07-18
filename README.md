@@ -34,12 +34,31 @@
 
 ### 内存设置
 #### %Xmx%
-<p>指定最大可用内存，<strong>在变量等号后键入数字,单位<em>MB</em></strong></p>
+<p>用于指定最大可用内存，<strong>在变量等号后键入数字,单位<em>MB</em></strong></p>
 
 #### %Xms%
-<p>指定最小内存用量，<strong>在变量等号后键入数字,单位<em>MB</em></strong></p>
+<p>用于指定最小内存用量，<strong>在变量等号后键入数字,单位<em>MB</em></strong></p>
 
 ### GUI模式(仅部分核心可用)
 <p>变量%gui%用于控制服务器的GUI显示和隐藏</p>
 <p>默认情况下这个变量是空的<em>(即显示服务器GUI[如果支持])</em></p>
 <p>若设置变量为"nogui"则为始终不显示服务器GUI</p>
+
+## 经过测试的服务器核心
+### PaperMC
+<p><a href="papermc.io" title="PaperMC">PaperMC核心官网</a></p>
+
+### ArcLight
+<p><a href="https://github.com/IzzelAliz/Arclight" title="ArcLight">ArcLight核心GitHub仓库</a></p>
+
+### CatServer
+<p><a href="https://catmc.org/" title="CatServer">CatServer核心官网</a></p>
+
+### Fabric
+<p><a href="https://fabricmc.net/use/" title="Fabric Server">Fabric官网</a></p>
+
+### Quilt
+<p><a href="https://quiltmc.org/install/" title="Quilt Server">Quilt官网</a></p>
+
+### Mohist
+<p>尚未测试该核心的可用性，请移步本项目的第三方<a href="https://github.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本</a>，<br>由<a href="https://github.com/Steverjava/" title="Steverjava">Steverjava</a>开发，已完成对Mohist核心及其Fabric/NeoForge版本测试</p>
