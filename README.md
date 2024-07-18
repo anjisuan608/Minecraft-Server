@@ -48,13 +48,21 @@
 <p>若设置变量为"nogui"则为始终不显示服务器GUI</p>
 
 ## 经过测试的服务器核心
+### Vanilla
+<p>原版服务器核心</p>
+<p><a href="https://www.minecraft.net/zh-hans/download/server" title="Vanilla">Minecraft官网</a></p>
+
 ### PaperMC
+<p>Paper 是一款基于 Spigot 的 Minecraft 游戏服务器，旨在大大提高性能并提供更高级的功能和 API</p>
 <p><a href="papermc.io" title="PaperMC">PaperMC核心官网</a></p>
 
 ### ArcLight
+<p>使用 Mixin 在模组环境中实现 Bukkit 服务器</p>
 <p><a href="https://github.com/IzzelAliz/Arclight" title="ArcLight">ArcLight核心GitHub仓库</a></p>
+<p>注:部分版本的服务器核心(jar)文件部署后存放于libraries文件夹下的版本暂不支持</p>
 
 ### CatServer
+<p>高性能和高兼容性的1.12.2/1.16.5/1.18.2版本Forge+Bukkit+Spigot服务端</p>
 <p><a href="https://catmc.org/" title="CatServer">CatServer核心官网</a></p>
 
 ### Fabric
@@ -63,5 +71,15 @@
 ### Quilt
 <p><a href="https://quiltmc.org/install/" title="Quilt Server">Quilt官网</a></p>
 
+### Forge
+<p><a href="https://files.minecraftforge.net/" title="Forge">Forge官网</a></p>
+<p>注:部分版本的服务器核心(jar)文件部署后存放于libraries文件夹下的版本暂不支持</p>
+
+### NeoForge
+<p><a href="https://projects.neoforged.net/neoforged/neoforge" title="NeoForge">NeoForge官网</a></p>
+<p>注:该核心的jar文件部署后存放于libraries文件夹下，因此暂不支持</p>
+
 ### Mohist
-<p>尚未测试该核心的可用性，请移步本项目的第三方<a href="https://github.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本</a>，由<a href="https://github.com/Steverjava/" title="Steverjava">Steverjava</a>开发(本段简称"开发者")，<br>开发者已完成对Mohist核心及其Fabric/NeoForge版本的启动测试</p>
+<p><a href="https://mohistmc.com/" title="Mohist">Mohist官网</a></p>
+<p>注:部分版本的核心(jar)文件在部署后存放于libraries文件夹下的版本暂不支持</p>
+<p>警告:尚未测试该核心的可用性，请移步本项目的第三方<a href="https://github.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本</a>，由<a href="https://github.com/Steverjava/" title="Steverjava">Steverjava</a>开发(本段简称"开发者")，<br>开发者已完成对Mohist核心及其Fabric/NeoForge版本的启动测试</p>
