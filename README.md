@@ -1,4 +1,7 @@
 # SakuraMaple我的世界Java版服务器启动批处理
+<p><strong>警告:该批处理仅适用于Windows平台!不适用于Linux、Unix、MacOS等平台!</strong></p>
+<p><em>如果需要支持跨平台启动，请移步至由<a href="https://github.com/Steverjava/" title="Steverjava">Steverjava</a>开发的第三方<a href="https://github.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本</a></em></p><hr>
+
 ## 批处理功能
 ### LittleSkin支持
 <p>批处理添加了对于authlib-injector的支持，允许用户使用LittleSkin作为认证服务器，参考<a href="https://manual.littlesk.in/yggdrasil/authlib-injector" title="帮助文档">LittleSkin帮助文档</a></p>
