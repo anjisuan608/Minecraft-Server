@@ -64,4 +64,4 @@
 <p><a href="https://quiltmc.org/install/" title="Quilt Server">Quilt官网</a></p>
 
 ### Mohist
-<p>尚未测试该核心的可用性，请移步本项目的第三方<a href="https://github.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本</a>，<br>由<a href="https://github.com/Steverjava/" title="Steverjava">Steverjava</a>开发，已完成对Mohist核心及其Fabric/NeoForge版本测试</p>
+<p>尚未测试该核心的可用性，请移步本项目的第三方<a href="https://github.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本</a>，<由<a href="https://github.com/Steverjava/" title="Steverjava">Steverjava</a>开发(本段简称"开发者")，<br>开发者已完成对Mohist核心及其Fabric/NeoForge版本的启动测试</p>
