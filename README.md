@@ -6,7 +6,7 @@
 ### LittleSkin支持
 <p>批处理添加了对于authlib-injector的支持，允许用户使用LittleSkin作为认证服务器，参考<a href="https://manual.littlesk.in/yggdrasil/authlib-injector" title="帮助文档">LittleSkin帮助文档</a></p>
 <p>集成了authlib-injector的下载，支持了<a href="https://authlib-injector.yushi.moe/" title="官方源">官方下载源</a>和<a href="https://bmclapi2.bangbang93.com/mirrors/authlib-injector/" title="BMCLAPI">BMCLAPI</a></p>
-<p>这**不是强制**的，可以在启动时停用，或在服务器停止后的菜单中停用该功能</p>
+<p>这<strong>不是强制</strong>的，可以在启动时停用，或在服务器停止后的菜单中停用该功能</p>
 <P><em>需要注意的是，服务器配置文件的<strong>online-mode</strong>必须处于<strong>true</strong></em></p>
 <p><em>若online-mode处于false则为离线模式，任何认证不生效</em></p>
 
