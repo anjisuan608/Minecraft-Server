@@ -58,6 +58,9 @@
 <p>Paper 是一款基于 Spigot 的 Minecraft 游戏服务器，旨在大大提高性能并提供更高级的功能和 API</p>
 <p><a href="papermc.io" title="PaperMC">PaperMC核心官网</a></p>
 
+### SpongeVanilla
+<p><a href="https://spongepowered.org/downloads/spongevanilla" title="海绵香草">海绵原版端</a></p>
+
 ### ArcLight
 <p>使用 Mixin 在模组环境中实现 Bukkit 服务器</p>
 <p><a href="https://github.com/IzzelAliz/Arclight" title="ArcLight">ArcLight核心GitHub仓库</a></p>
