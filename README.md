@@ -6,6 +6,7 @@
   <li>Gitee: <a href="https://gitee.com/anjisuan608/Minecraft-Java-Edition-Server-Launcher" title="GieCode">Gitee项目地址</a></li>
   <li>GitCode: <a href="https://gitcode.com/anjisuan608/Minecraft-Java-Edition-Server-Launcher" title="GieCode">GitCode项目地址</a></li>
   <li>GitLab:(停止维护)</li>
+  <li>JiHuLab:(暂无)</li>
 </ul>
 <p><em>如果需要支持跨平台启动，请移步至由<a href="https://github.com/Steverjava/" title="Steverjava">Steverjava(GitHub)</a>(<a href="https://gitee.com/Steverjava/" title="Steverjava">Steverjava(Gitee)</a>)(<a href="https://gitcode.com/Steverjava/" title="Steverjava">Steverjava(GitCode)</a>)开发的第三方<a href="https://github.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本(GitHub)</a>(<a href="https://gitee.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本(Gitee)</a>)(<a href="https://gitcode.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本(GitCode)</a>)</em></p><hr>
 
