@@ -100,7 +100,7 @@
 ### ArcLight
 <p>使用 Mixin 在模组环境中实现 Bukkit 服务器</p>
 <p><a href="https://github.com/IzzelAliz/Arclight" title="ArcLight">ArcLight核心GitHub仓库</a></p>
-<p>注:部分版本的服务器核心(jar)文件部署后存放于libraries文件夹下的版本请参考批处理注释完成设置</p>
+<p>注:部分版本的服务器核心(jar)文件部署后存放于libraries文件夹下的版本请参考批处理注释完成配置</p>
 <br>
 
 ### CatServer
@@ -118,17 +118,17 @@
 
 ### Forge
 <p><a href="https://files.minecraftforge.net/" title="Forge">Forge官网</a></p>
-<p>注:部分版本的服务器核心(jar)文件部署后存放于libraries文件夹下的版本请参考批处理注释完成设置</p>
+<p>注:部分版本的服务器核心(jar)文件部署后存放于libraries文件夹下的版本请参考批处理注释完成配置</p>
 <br>
 
 ### NeoForge
 <p><a href="https://projects.neoforged.net/neoforged/neoforge" title="NeoForge">NeoForge官网</a></p>
-<p>注:该核心的jar文件部署后存放于libraries文件夹下，请参考批处理注释完成设置</p>
+<p>注:该核心的jar文件部署后存放于libraries文件夹下，请参考批处理注释完成配置</p>
 <br>
 
 ### Mohist
 <p><a href="https://mohistmc.com/" title="Mohist">Mohist官网</a></p>
-<p>注:部分版本的服务器核心(jar)文件部署后存放于libraries文件夹下的版本请参考批处理注释完成设置</p>
+<p>注:部分版本的服务器核心(jar)文件部署后存放于libraries文件夹下的版本请参考批处理注释完成配置</p>
 <p>警告:尚未测试该核心的可用性，请移步本项目的第三方<a href="https://github.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本(GitHub)</a>(<a href="https://gitee.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本(Gitee)</a>)，由<a href="https://github.com/Steverjava/" title="Steverjava">Steverjava(GitHub)</a>(<a href="https://gitee.com/Steverjava/" title="Steverjava">Steverjava(Gitee)</a>)开发(本段简称"开发者")，<br>开发者已完成对Mohist核心及其Fabric/NeoForge版本的启动测试</p>
 <br>
 
