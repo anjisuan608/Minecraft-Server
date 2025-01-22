@@ -2,9 +2,9 @@
 <p><strong>警告:该批处理仅适用于Windows平台!不适用于Linux、Unix、MacOS等平台!</strong></p>
 <p>若访问缓慢可尝试前往以下站点:</p>
 <ul>
-  <li>GitHub: <a herf="https://github.com/anjisuan608/Minecraft-Java-Edition-Server-Launcher" title="GieCode">GitHub项目地址</a></li>
-  <li>Gitee: <a herf="https://gitee.com/anjisuan608/Minecraft-Java-Edition-Server-Launcher" title="GieCode">Gitee项目地址</a></li>
-  <li>GitCode: <a herf="https://gitcode.com/anjisuan608/Minecraft-Java-Edition-Server-Launcher" title="GieCode">GitCode项目地址</a></li>
+  <li>GitHub: <a href="https://github.com/anjisuan608/Minecraft-Java-Edition-Server-Launcher" title="GieCode">GitHub项目地址</a></li>
+  <li>Gitee: <a href="https://gitee.com/anjisuan608/Minecraft-Java-Edition-Server-Launcher" title="GieCode">Gitee项目地址</a></li>
+  <li>GitCode: <a hrf="https://gitcode.com/anjisuan608/Minecraft-Java-Edition-Server-Launcher" title="GieCode">GitCode项目地址</a></li>
   <li>GitLab:(停止维护)</li>
 </ul>
 <p><em>如果需要支持跨平台启动，请移步至由<a href="https://github.com/Steverjava/" title="Steverjava">Steverjava(GitHub)</a>(<a href="https://gitee.com/Steverjava/" title="Steverjava">Steverjava(Gitee)</a>)(<a href="https://gitcode.com/Steverjava/" title="Steverjava">Steverjava(GitCode)</a>)开发的第三方<a href="https://github.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本(GitHub)</a>(<a href="https://gitee.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本(Gitee)</a>)(<a href="https://gitcode.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本(GitCode)</a>)</em></p><hr>
