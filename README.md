@@ -8,10 +8,14 @@
   <li>GitLab:(停止维护)</li>
   <li>JiHuLab:(暂无)</li>
 </ul>
-<p><em>如果需要支持跨平台启动，请移步至由<a href="https://github.com/Steverjava/" title="Steverjava">Steverjava(GitHub)</a>(<a href="https://gitee.com/Steverjava/" title="Steverjava">Steverjava(Gitee)</a>)(<a href="https://gitcode.com/Steverjava/" title="Steverjava">Steverjava(GitCode)</a>)开发的第三方<a href="https://github.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本(GitHub)</a>(<a href="https://gitee.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本(Gitee)</a>)(<a href="https://gitcode.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本(GitCode)</a>)</em></p><hr>
 
-## 若查看或编辑批处理文件时出现乱码,请使用"GB 2312"或"GBK"编码打开文件!
-<br>
+## 跨平台支持(实验性)
+
+<p>PowerShell版已停止开发</p>
+<p><a href="#%E7%AC%AC%E4%B8%89%E6%96%B9python%E7%89%88%E6%9C%AC%E5%AE%9E%E9%AA%8C%E6%80%A7" title="第三方Python版本">点击跳转</a>至第三方Python版本说明</p>
+<!-- <p><em>如果需要支持跨平台启动，请移步至由<a href="https://github.com/Steverjava/" title="Steverjava">Steverjava(GitHub)</a>(<a href="https://gitee.com/Steverjava/" title="Steverjava">Steverjava(Gitee)</a>)(<a href="https://gitcode.com/Steverjava/" title="Steverjava">Steverjava(GitCode)</a>)开发的第三方<a href="https://github.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本(GitHub)</a>(<a href="https://gitee.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本(Gitee)</a>)(<a href="https://gitcode.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本(GitCode)</a>)</em></p><hr> -->
+
+<h2>若查看或编辑批处理文件时出现乱码,请使用"GB 2312"或"GBK"编码打开文件!</h2>
 
 ## 批处理功能
 ### 第三方认证服务器
@@ -133,3 +137,20 @@
 <p>警告:尚未测试该核心的可用性，请移步本项目的第三方<a href="https://github.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本(GitHub)</a>(<a href="https://gitee.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本(Gitee)</a>)，由<a href="https://github.com/Steverjava/" title="Steverjava">Steverjava(GitHub)</a>(<a href="https://gitee.com/Steverjava/" title="Steverjava">Steverjava(Gitee)</a>)开发(本段简称"开发者")，<br>开发者已完成对Mohist核心及其Fabric/NeoForge版本的启动测试</p>
 <br>
 
+## 第三方Python版本(实验性)
+
+<!-- <p><em>如果需要支持跨平台启动，请移步至由<a href="https://github.com/Steverjava/" title="Steverjava">Steverjava(GitHub)</a>(<a href="https://gitee.com/Steverjava/" title="Steverjava">Steverjava(Gitee)</a>)(<a href="https://gitcode.com/Steverjava/" title="Steverjava">Steverjava(GitCode)</a>)开发的第三方<a href="https://github.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本(GitHub)</a>(<a href="https://gitee.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本(Gitee)</a>)(<a href="https://gitcode.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本(GitCode)</a>)</em></p><hr> -->
+
+<p>Steverjava开发的Python版本</p>
+<p>Steverjava的主页</p>
+<ul>
+  <li><a href="https://github.com/Steverjava/" title="Steverjava's GitHub user profile">GitHub主页</a></li>
+  <li><a href="https://gitee.com/Steverjava/" title="Steverjava's Gitee user profile">Gitee主页</a></li>
+  <li><a href="https://gitcode.com/Steverjava/" title="Steverjava's GitCode user profile">GitCode主页</a></li>
+</ul>
+<p>Steverjava的Python版本项目主页</p>
+<ul>
+  <li><a href="https://github.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava's GitHub Project profile">GitHub项目主页</a></li>
+  <li><a href="https://gitee.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava's Gitee Project profile">Gitee项目主页</a></li>
+  <li><a href="https://gitcode.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava's GitCode Project profile">GitCode项目主页</a></li>
+</ul>
