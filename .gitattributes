@@ -1,3 +1,0 @@
-*.md linguist-language=markdown
-*.cmd linguist-language=bash
-*.bat linguist-language=bash
