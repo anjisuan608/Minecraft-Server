@@ -145,8 +145,8 @@
 
 <!-- <p><em>如果需要支持跨平台启动，请移步至由<a href="https://github.com/Steverjava/" title="Steverjava">Steverjava(GitHub)</a>(<a href="https://gitee.com/Steverjava/" title="Steverjava">Steverjava(Gitee)</a>)(<a href="https://gitcode.com/Steverjava/" title="Steverjava">Steverjava(GitCode)</a>)开发的第三方<a href="https://github.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本(GitHub)</a>(<a href="https://gitee.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本(Gitee)</a>)(<a href="https://gitcode.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava">Python版本(GitCode)</a>)</em></p><hr> -->
 
-<p>Steverjava开发的Python版本</p>
-<p>Steverjava的主页</p>
+<!-- <p>Steverjava开发的Python版本</p> -->
+<!-- <p>Steverjava的主页</p>
 <ul>
   <li><a href="https://github.com/Steverjava/" title="Steverjava's GitHub user profile">GitHub主页</a></li>
   <li><a href="https://gitee.com/Steverjava/" title="Steverjava's Gitee user profile">Gitee主页</a></li>
@@ -157,4 +157,16 @@
   <li><a href="https://github.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava's GitHub Project profile">GitHub项目主页</a></li>
   <li><a href="https://gitee.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava's Gitee Project profile">Gitee项目主页</a></li>
   <li><a href="https://gitcode.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava's GitCode Project profile">GitCode项目主页</a></li>
+</ul> -->
+
+<p>第三方Python版——由Steverjava开发</p>
+<p>注: 第三方版本与该项目无关,请勿套用该项目相关条款处理第三方版本!</p>
+<ul>
+  <li>GitHub: <a href="https://github.com/Steverjava/" title="Steverjava's GitHub user profile">开发者主页</a> <a href="https://github.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava's GitHub Project profile">项目仓库</a></li>
+  <li>Gitee: <a href="https://gitee.com/Steverjava/" title="Steverjava's Gitee user profile">开发者主页</a> <a href="https://gitee.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava's Gitee Project profile">项目仓库</a></li>
+  <li>GitCode: <a href="https://gitcode.com/Steverjava/" title="Steverjava's GitCode user profile">开发者主页</a> <a href="https://gitcode.com/Steverjava/Minecraft-Server-Launcher" title="Steverjava's GitCode Project profile">项目仓库</a></li>
 </ul>
+
+
+
+
