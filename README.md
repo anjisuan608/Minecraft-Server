@@ -12,6 +12,10 @@
   <li>JiHuLab:(暂无)</li>
 </ul>
 
+## 下载文件
+
+<p><a href="./run-SM.cmd" title="Download">点击跳转到项目内文件目录下载</a></p>
+
 ## 跨平台支持(实验性)
 
 <p>PowerShell版已停止开发</p>
